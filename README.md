@@ -11,3 +11,7 @@ frequency value to be generated(in Hz), a push button connected to INT0 is press
 external interrupt which loads timer 1 with the proper values and enables square wave generation
 on pin P3.7. If a new frequency value is to be entered; the switch connected to INT0 is pressed
 again.
+
+## Proteus Simulation
+https://github.com/seifbassiounyy/Frequency-Generator-8051/assets/104737465/8fd116f1-bd87-4987-b03d-abb11bf508c6
+
